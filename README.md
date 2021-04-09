@@ -10,28 +10,28 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td width="80px"><a>1</a></td>
-            <td width="80px"><a>2</a></td>
-            <td width="80px"><a>3</a></td>
-            <td width="80px"><a>4</a></td>
-            <td width="80px"><a>5</a></td>
-            <td width="80px"><a>6</a></td>
-            <td width="80px"><a>7</a></td>
-            <td width="80px"><a>8</a></td>
-            <td width="80px"><a>9</a></td>
-            <td width="80px"><a>10</a></td>
+            <td width="80px"><a href="./code/1.py">1</a></td>
+            <td width="80px"><a href="./code/2.py">2</a></td>
+            <td width="80px"><a href="./code/3.py">3</a></td>
+            <td width="80px"><a href="./code/4.py">4</a></td>
+            <td width="80px"><a href="./code/5.py">5</a></td>
+            <td width="80px"><a href="./code/6.py">6</a></td>
+            <td width="80px"><a href="./code/7.py">7</a></td>
+            <td width="80px"><a href="./code/8.py">8</a></td>
+            <td width="80px"><a href="./code/9.py">9</a></td>
+            <td width="80px"><a href="./code/10.py">10</a></td>
         </tr>
         <tr align="center">
-            <td><a>11</a></td>
-            <td><a>12</a></td>
-            <td><a>13</a></td>
-            <td><a>14</a></td>
-            <td><a>15</a></td>
-            <td><a>16</a></td>
-            <td><a>17</a></td>
-            <td><a>18</a></td>
-            <td><a>19</a></td>
-            <td><a>20</a></td>
+            <td><a href="./code/11.py">11</a></td>
+            <td><a href="./code/12.py">12</a></td>
+            <td><a href="./code/13.py">13</a></td>
+            <td><a href="./code/14.py">14</a></td>
+            <td><a href="./code/15.py">15</a></td>
+            <td><a href="./code/16.py">16</a></td>
+            <td><a href="./code/17.py">17</a></td>
+            <td><a href="./code/18.py">18</a></td>
+            <td><a href="./code/19.py">19</a></td>
+            <td><a href="./code/20.py">20</a></td>
         </tr>
         <tr align="center">
             <td><a>21</a></td>
