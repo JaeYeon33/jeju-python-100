@@ -34,20 +34,20 @@
             <td><a href="./code/20.py">20</a></td>
         </tr>
         <tr align="center">
-            <td><a>21</a></td>
-            <td><a>22</a></td>
-            <td><a>23</a></td>
-            <td><a>24</a></td>
-            <td><a>25</a></td>
-            <td><a>26</a></td>
-            <td><a>27</a></td>
-            <td><a>28</a></td>
-            <td><a>29</a></td>
-            <td><a>30</a></td>
+            <td><a href="./code/21.py">21</a></td>
+            <td><a href="./code/22.py">22</a></td>
+            <td><a href="./code/23.py">23</a></td>
+            <td><a href="./code/24.py">24</a></td>
+            <td><a href="./code/25.py">25</a></td>
+            <td><a href="./code/26.py">26</a></td>
+            <td><a href="./code/27.py">27</a></td>
+            <td><a href="./code/28.py">28</a></td>
+            <td><a href="./code/29.py">29</a></td>
+            <td><a href="./code/30.py">30</a></td>
         </tr>
         <tr align="center">
-            <td><a>31</a></td>
-            <td><a>32</a></td>
+            <td><a href="./code/31.py">31</a></td>
+            <td><a href="./code/32.py">32</a></td>
             <td><a>33</a></td>
             <td><a>34</a></td>
             <td><a>35</a></td>
