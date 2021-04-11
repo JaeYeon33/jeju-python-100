@@ -48,26 +48,26 @@
         <tr align="center">
             <td><a href="./code/31.py">31</a></td>
             <td><a href="./code/32.py">32</a></td>
-            <td><a>33</a></td>
-            <td><a>34</a></td>
-            <td><a>35</a></td>
-            <td><a>36</a></td>
-            <td><a>37</a></td>
-            <td><a>38</a></td>
-            <td><a>39</a></td>
-            <td><a>40</a></td>
+            <td><a href="./code/33.py">33</a></td>
+            <td><a href="./code/34.py">34</a></td>
+            <td><a href="./code/35.py">35</a></td>
+            <td><a href="./code/36.py">36</a></td>
+            <td><a href="./code/37.py">37</a></td>
+            <td><a href="./code/38.py">38</a></td>
+            <td><a href="./code/39.py">39</a></td>
+            <td><a href="./code/40.py">40</a></td>
         </tr>
         <tr align="center">
-            <td><a>41</a></td>
-            <td><a>42</a></td>
-            <td><a>43</a></td>
-            <td><a>44</a></td>
-            <td><a>45</a></td>
-            <td><a>46</a></td>
-            <td><a>47</a></td>
-            <td><a>48</a></td>
-            <td><a>49</a></td>
-            <td><a>50</a></td>
+            <td><a href="./code/41.py">41</a></td>
+            <td><a href="./code/42.py">42</a></td>
+            <td><a href="./code/43.py">43</a></td>
+            <td><a href="./code/44.py">44</a></td>
+            <td><a href="./code/45.py">45</a></td>
+            <td><a href="./code/46.py">46</a></td>
+            <td><a href="./code/47.py">47</a></td>
+            <td><a href="./code/48.py">48</a></td>
+            <td><a href="./code/49.py">49</a></td>
+            <td><a href="./code/50.py">50</a></td>
         </tr>
     </tbody>
     <thead align="left">
